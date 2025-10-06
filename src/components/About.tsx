@@ -16,7 +16,7 @@ const About = () => {
                 <img
                   src={profileImage}
                   alt="Tarun Valireddy"
-                  className="relative rounded-full w-64 h-64 object-cover border-4 border-primary/30 card-shadow"
+                  className="relative rounded-full w-60 h-60 object-cover border-4 border-primary/30 card-shadow"
                 />
               </div>
             </div>
@@ -49,7 +49,7 @@ const About = () => {
                 <div>
                   <p className="text-sm text-muted-foreground">LinkedIn</p>
                   <a 
-                    href="https://linkedin.com/in/tarunvalireddy" 
+                    href="https://www.linkedin.com/in/tarun-valireddy/"
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="font-medium text-primary hover:underline"
