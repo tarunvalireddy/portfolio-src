@@ -27,7 +27,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/tarunvalireddy",
+      href: "https://linkedin.com/in/tarun-valireddy",
       color: "hover:text-[#0A66C2]",
     },
     {
