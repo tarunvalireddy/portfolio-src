@@ -35,7 +35,7 @@ const Hero = () => {
               Explore My Work
             </Button>
             <Button
-              onClick={() => window.open("https://linkedin.com/in/tarunvalireddy", "_blank")}
+              onClick={() => window.open("https://linkedin.com/in/tarun-valireddy", "_blank")}
               variant="outline"
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground px-8 py-6 text-lg"
             >
